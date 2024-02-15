@@ -129,8 +129,7 @@ Sub stock_m2()
         Range("Q3").NumberFormat = "0.00" & "%"
         Range("Q2").NumberFormat = "0.00" & "%"
         
-    Next ws
-    
+    Next ws 
 End Sub
 
     
